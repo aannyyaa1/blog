@@ -1,6 +1,6 @@
 ---
 title: Прошедшая неделя
-summary:
+summary: Как прошла моя неделя (ну такое)
 date: 2025-03-18
 
 # Featured image
