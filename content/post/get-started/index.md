@@ -1,6 +1,6 @@
 ---
 title: Управление версиями. Git.
-summary: 
+summary: О Git, его достоинствах и недостатках
 date: 2025-03-20
 
 # Featured image
