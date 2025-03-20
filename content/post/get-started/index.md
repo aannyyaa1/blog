@@ -27,6 +27,8 @@ tags:
 количеством непрерывно изменяющихся электронных документов СКВ позволяет вернуть к прежнему состоянию весь проект, сравнить 
 изменения с какого-то времени, увидеть, кто последним изменял модуль, который дал сбой, кто создал проблему, и другое.
 
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+
 ## Git. Достоинства и недостатки
 
 Git является одной из самых популярных систем контроля версий в мире разработки программного обеспечения. Он был разработан 
